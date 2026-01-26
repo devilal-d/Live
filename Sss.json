@@ -1,0 +1,181 @@
+[
+  {
+    "tvg_id": "SONY SAB HD.in",
+    "tvg_name": "Sony Sab HD",
+    "group_title": "Entertainment",
+    "tvg_logo": "https://i.postimg.cc/LhKxf97t/sonysabhd.webp",
+    "name": "Sony Sab HD",
+    "url": "https://cloudplay-sonyliv.pages.dev/sabhd.php"
+  },
+  {
+    "tvg_id": "SET HD.in",
+    "tvg_name": "SET HD",
+    "group_title": "Entertainment",
+    "tvg_logo": "https://i.postimg.cc/zXgMfMMw/sethd.webp",
+    "name": "SET HD",
+    "url": "https://cloudplay-sonyliv.pages.dev/sethd.php"
+  },
+  {
+    "tvg_id": "Sony Pal.in",
+    "tvg_name": "Sony Pal",
+    "group_title": "Entertainment",
+    "tvg_logo": "https://i.postimg.cc/hjYyDb13/sonypal.webp",
+    "name": "Sony Pal",
+    "url": "https://cloudplay-sonyliv.pages.dev/pal.php"
+  },
+  {
+    "tvg_id": "Sony Wah.in",
+    "tvg_name": "Sony WAH",
+    "group_title": "Movies",
+    "tvg_logo": "https://i.postimg.cc/HxJG9LSR/sonywah.webp",
+    "name": "Sony Wah",
+    "url": "https://cloudplay-sonyliv.pages.dev/wah.php"
+  },
+  {
+    "tvg_id": "SONY MAX.in",
+    "tvg_name": "Sony MAX",
+    "group_title": "Movies",
+    "tvg_logo": "https://i.postimg.cc/43JFB33w/sonymax.webp",
+    "name": "Sony Max",
+    "url": "https://cloudplay-sonyliv.pages.dev/max.php"
+  },
+  {
+    "tvg_id": "SONY MAX HD.in",
+    "tvg_name": "Sony Max HD",
+    "group_title": "Movies",
+    "tvg_logo": "https://i.postimg.cc/RFhpxbKH/sonymaxhd.webp",
+    "name": "Sony Max HD",
+    "url": "https://cloudplay-sonyliv.pages.dev/maxhd.php"
+  },
+  {
+    "tvg_id": "SONY MAX 2.in",
+    "tvg_name": "Sony MAX2",
+    "group_title": "Movies",
+    "tvg_logo": "https://i.postimg.cc/vm32jdgy/sonymax2.webp",
+    "name": "Sony Max 2",
+    "url": "https://cloudplay-sonyliv.pages.dev/max2.php"
+  },
+  {
+    "tvg_id": "SONY SPORTS TEN 1.in",
+    "tvg_name": "Sony Sports Ten 1",
+    "group_title": "Sports",
+    "tvg_logo": "https://i.postimg.cc/k5y9R4vH/sony-ten-1.webp",
+    "name": "Sony TEN 1 SD",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten1.php"
+  },
+  {
+    "tvg_id": "SONY SPORTS TEN 1 HD.in",
+    "tvg_name": "Sony Sports Ten 1 HD",
+    "group_title": "Sports",
+    "tvg_logo": "https://i.postimg.cc/h4knM9Rr/sonysportsten1hd.webp",
+    "name": "Sony TEN 1 HD",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten1hd.php"
+  },
+  {
+    "tvg_id": "SONY SPORTS TEN 2.in",
+    "tvg_name": "Sony Sports Ten 2",
+    "group_title": "Sports",
+    "tvg_logo": "https://i.postimg.cc/027s4b8q/sonysportsten2.webp",
+    "name": "Sony TEN 2 SD",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten2.php"
+  },
+  {
+    "tvg_id": "SONY SPORTS TEN 2 HD.in",
+    "tvg_name": "Sony Sports Ten 2 HD",
+    "group_title": "Sports",
+    "tvg_logo": "https://i.postimg.cc/zG5rY8BH/sonysportsten2hd.webp",
+    "name": "Sony TEN 2 HD",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten2hd.php"
+  },
+  {
+    "tvg_id": "SONY SPORTS TEN 3.in",
+    "tvg_name": "Sony Sports Ten 3",
+    "group_title": "Sports",
+    "tvg_logo": "https://i.postimg.cc/XY80VmGH/sonysportsten3.webp",
+    "name": "Sony TEN 3 SD",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten3.php"
+  },
+  {
+    "tvg_id": "SONY SPORTS TEN 3 HD.in",
+    "tvg_name": "Sony Sports Ten 3 HD",
+    "group_title": "Sports",
+    "tvg_logo": "https://i.postimg.cc/xd1Vq5L0/sonysportsten3hd.webp",
+    "name": "Sony TEN 3 HD",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten3hd.php"
+  },
+  {
+    "tvg_id": "SONY SPORTS TEN 4.in",
+    "tvg_name": "Sony Sports Ten 4",
+    "group_title": "Sports",
+    "tvg_logo": "https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",
+    "name": "Sony TEN 4 SD",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten4.php"
+  },
+  {
+    "tvg_id": "SONY SPORTS TEN 4 HD.in",
+    "tvg_name": "Sony Sports Ten 4 HD",
+    "group_title": "Sports",
+    "tvg_logo": "https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",
+    "name": "Sony TEN 4 HD",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten4hd.php"
+  },
+  {
+    "tvg_id": "SONY SPORTS TEN 5.in",
+    "tvg_name": "Sony Sports Ten 5",
+    "group_title": "Sports",
+    "tvg_logo": "https://i.postimg.cc/Mpjks892/sony-sports-ten-5.png",
+    "name": "Sony TEN 5 SD",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten5.php"
+  },
+  {
+    "tvg_id": "SONY SPORTS TEN 5 HD.in",
+    "tvg_name": "Sony Sports Ten 5 HD",
+    "group_title": "Sports",
+    "tvg_logo": "https://i.postimg.cc/CKrT884b/sonysportsten5hd.webp",
+    "name": "Sony TEN 5 HD",
+    "url": "https://cloudplay-sonyliv.pages.dev/ten5hd.php"
+  },
+  {
+    "tvg_id": "SONY YAY!.in",
+    "tvg_name": "Sony Yay",
+    "group_title": "Kids",
+    "tvg_logo": "https://i.postimg.cc/FRwMWQ8R/sonyyay.webp",
+    "name": "Sony Yay",
+    "url": "https://cloudplay-sonyliv.pages.dev/yay.php"
+  },
+  {
+    "tvg_id": "SONY BBC Earth HD.in",
+    "tvg_name": "Sony BBC Earth HD",
+    "group_title": "Knowledge",
+    "tvg_logo": "https://i.postimg.cc/sgPNYW3v/sonybbcearthhd.webp",
+    "name": "Sony BBC Earth HD",
+    "url": "https://cloudplay-sonyliv.pages.dev/bbcearthhd.php"
+  },
+  {
+    "tvg_id": "sony-pix-hd",
+    "tvg_name": "Sony PIX HD",
+    "tvg_language": "English",
+    "tvg_logo": "https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png",
+    "group_title": "Movies",
+    "name": "Sony PIX HD",
+    "url": "https://cloudplay-sonyliv.pages.dev/pixhd.php"
+  },
+  {
+    "tvg_id": "sony-marathi",
+    "tvg_name": "Sony Marathi",
+    "tvg_language": "Marathi",
+    "tvg_logo": "https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png",
+    "group_title": "Entertainment",
+    "name": "Sony Marathii",
+    "url": "https://cloudplay-sonyliv.pages.dev/marathi.php"
+  },
+  {
+    "tvg_id": "sony-aath",
+    "tvg_name": "Sony Aath",
+    "tvg_language": "Bengali",
+    "tvg_logo": "https://i.postimg.cc/bY12WVTm/SONY-AATH.png",
+    "group_title": "Entertainment",
+    "name": "Sony Aath",
+    "url": "https://cloudplay-sonyliv.pages.dev/aath.php"
+  }
+    ]
