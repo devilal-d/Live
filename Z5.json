@@ -4,475 +4,160 @@
     "groupTitle": "News",
     "name": "Aaj Tak",
     "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Aaj_Tak_Logo.png/250px-Aaj_Tak_Logo.png"
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png"
   },
   {
     "id": "2",
     "groupTitle": "News",
     "name": "Zee News",
     "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zee_News_logo.svg/200px-Zee_News_logo.svg.png"
-  },
-  {
-    "id": "3",
-    "groupTitle": "News",
-    "name": "India Today",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105501/INDIATODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/India_Today_News_Channel_Logo.png/200px-India_Today_News_Channel_Logo.png"
-  },
-  {
-    "id": "4",
-    "groupTitle": "News",
-    "name": "Good News Today",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105499/GOODNEWSTODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Good_News_Today_Logo.png/200px-Good_News_Today_Logo.png"
-  },
-  {
-    "id": "5",
-    "groupTitle": "Movies",
-    "name": "&Prive HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/And_Prive_HD_Logo.jpg/250px-And_Prive_HD_Logo.jpg"
-  },
-  {
-    "id": "6",
-    "groupTitle": "Punjabi",
-    "name": "Zee Punjab Haryana Himachal Pradesh",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105493/ZEEPUHRHIELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/23/Zee_Punjab_Haryana_Himachal.png"
-  },
-  {
-    "id": "7",
-    "groupTitle": "News",
-    "name": "Zee Business",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105509/ZEEBUSINESSELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Zee_Business_logo.png/200px-Zee_Business_logo.png"
-  },
-  {
-    "id": "8",
-    "groupTitle": "Gujarati",
-    "name": "Zee 24 Kalak",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105497/ZEE24KALAKELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Zee_24_Kalak_Logo.png/200px-Zee_24_Kalak_Logo.png"
-  },
-  {
-    "id": "9",
-    "groupTitle": "Marathi",
-    "name": "Zee 24 Taas",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105498/ZEE24TAASNEWSNEWELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Zee_24_Taas_logo.png/200px-Zee_24_Taas_logo.png"
-  },
-  {
-    "id": "10",
-    "groupTitle": "News",
-    "name": "WION",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105506/WIONNEWSELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/WION_logo.svg/200px-WION_logo.svg.png"
-  },
-  {
-    "id": "11",
-    "groupTitle": "News",
-    "name": "Zee Bharat",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105262/ZEEBHARATNEWSNEWELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Zee_Bharat_Logo.png/250px-Zee_Bharat_Logo.png"
-  },
-  {
-    "id": "12",
-    "groupTitle": "News",
-    "name": "Zee Bihar Jharkhand",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105492/ZEEBHJKELE/master.m3u8?",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Zee_Bihar_Jharkhand_logo.png"
-  },
-  {
-    "id": "13",
-    "groupTitle": "Bengali",
-    "name": "Zee 24 Ghanta",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105511/ZEE24GHANTAELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Zee_24_Ghanta_logo.svg/200px-Zee_24_Ghanta_logo.svg.png"
-  },
-  {
-    "id": "14",
-    "groupTitle": "News",
-    "name": "Zee Delhi NCR Haryana",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105507/ZEEDELNCRHRNEWSNEWELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Zee_News_logo.svg/200px-Zee_News_logo.svg.png"
-  },
-  {
-    "id": "15",
-    "groupTitle": "News",
-    "name": "Zee Rajasthan News",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105496/ZEERAJASTHANELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Zee_Rajasthan_logo.png"
-  },
-  {
-    "id": "16",
-    "groupTitle": "News",
-    "name": "Zee Madhya Pradesh Chhattisgarh",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105495/ZEEMPCGELE/master.m3u8?",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Zee_MP_CG_Logo.png/200px-Zee_MP_CG_Logo.png"
-  },
-  {
-    "id": "17",
-    "groupTitle": "Entertainment",
-    "name": "Big Magic",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/4/41/Big_Magic_logo.png"
-  },
-  {
-    "id": "18",
-    "groupTitle": "Entertainment",
-    "name": "Zing",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Zing_TV_logo.png/200px-Zing_TV_logo.png"
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png"
   },
   {
     "id": "19",
     "groupTitle": "Entertainment",
     "name": "Zee TV HD",
     "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zee_TV_logo.svg/200px-Zee_TV_logo.svg.png"
-  },
-  {
-    "id": "20",
-    "groupTitle": "Entertainment",
-    "name": "&TV HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/And_TV_logo.svg/200px-And_TV_logo.svg.png"
-  },
-  {
-    "id": "21",
-    "groupTitle": "Marathi",
-    "name": "Zee Marathi HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Zee_Marathi_logo.svg/200px-Zee_Marathi_logo.svg.png"
-  },
-  {
-    "id": "22",
-    "groupTitle": "Marathi",
-    "name": "Zee Yuva",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105533/ZeeYuvaELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Zee_Yuva_logo.png/200px-Zee_Yuva_logo.png"
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png"
   },
   {
     "id": "23",
     "groupTitle": "Entertainment",
     "name": "Zee Café HD",
     "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Zee_Caf%C3%A9_logo.svg/200px-Zee_Caf%C3%A9_logo.svg.png"
-  },
-  {
-    "id": "24",
-    "groupTitle": "Movies",
-    "name": "Zee Anmol Cinema 2",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Zee_Anmol_Cinema_2_Logo.png/250px-Zee_Anmol_Cinema_2_Logo.png"
-  },
-  {
-    "id": "25",
-    "groupTitle": "Tamil",
-    "name": "Zee Tamil HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105530/ZeeTamilHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Zee_Tamil_logo.svg/200px-Zee_Tamil_logo.svg.png"
-  },
-  {
-    "id": "26",
-    "groupTitle": "Telugu",
-    "name": "Zee Telugu HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zee_Telugu_logo.svg/200px-Zee_Telugu_logo.svg.png"
-  },
-  {
-    "id": "27",
-    "groupTitle": "Kannada",
-    "name": "Zee Kannada HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105555/ZeeKannadaHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Zee_Kannada_logo.svg/200px-Zee_Kannada_logo.svg.png"
-  },
-  {
-    "id": "28",
-    "groupTitle": "Malayalam",
-    "name": "Zee Keralam HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105529/ZeeKeralamHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Zee_Keralam_logo.svg/200px-Zee_Keralam_logo.svg.png"
-  },
-  {
-    "id": "29",
-    "groupTitle": "Bengali",
-    "name": "Zee Bangla HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Zee_Bangla_logo.svg/200px-Zee_Bangla_logo.svg.png"
-  },
-  {
-    "id": "30",
-    "groupTitle": "Movies",
-    "name": "Zee Anmol",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/ZeeAnmolELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Zee_Anmol_logo.svg/200px-Zee_Anmol_logo.svg.png"
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png"
   },
   {
     "id": "31",
     "groupTitle": "Movies",
     "name": "Zee Cinema HD",
     "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Zee_Cinema_logo.svg/200px-Zee_Cinema_logo.svg.png"
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png"
   },
   {
-    "id": "32",
-    "groupTitle": "Telugu",
-    "name": "Zee Cinemalu HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Zee_Cinemalu_logo.png/200px-Zee_Cinemalu_logo.png"
-  },
-  {
-    "id": "33",
-    "groupTitle": "Movies",
-    "name": "&Pictures HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/And_Pictures_logo.svg/200px-And_Pictures_logo.svg.png"
-  },
-  {
-    "id": "34",
-    "groupTitle": "Marathi",
-    "name": "Zee Talkies HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105519/ZeeTalkiesHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Zee_Talkies_logo.svg/200px-Zee_Talkies_logo.svg.png"
-  },
-  {
-    "id": "35",
-    "groupTitle": "Bengali",
-    "name": "Zee Bangla Cinema",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Zee_Bangla_Cinema_Logo.png/200px-Zee_Bangla_Cinema_Logo.png"
-  },
-  {
-    "id": "36",
-    "groupTitle": "Punjabi",
-    "name": "Zee Punjabi",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105170/ZeePunjabiELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Zee_Punjabi_Logo.svg/200px-Zee_Punjabi_Logo.svg.png"
-  },
-  {
-    "id": "37",
-    "groupTitle": "Movies",
-    "name": "Zee Anmol Cinema",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/ZeeAnmolCinemaELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Zee_Anmol_Cinema_logo.svg/200px-Zee_Anmol_Cinema_logo.svg.png"
-  },
-  {
-    "id": "38",
-    "groupTitle": "Movies",
-    "name": "Zee Bollywood",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105173/ZeeBollywoodELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Zee_Bollywood_logo.svg/200px-Zee_Bollywood_logo.svg.png"
-  },
-  {
-    "id": "39",
-    "groupTitle": "Movies",
-    "name": "&Pictures",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105528/ANDPicturesELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/And_Pictures_logo.svg/200px-And_Pictures_logo.svg.png"
-  },
-  {
-    "id": "40",
-    "groupTitle": "Movies",
-    "name": "Zee Cinema",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Zee_Cinema_logo.svg/200px-Zee_Cinema_logo.svg.png"
-  },
-  {
-    "id": "41",
+    "id": "101",
     "groupTitle": "Movies",
     "name": "Zee Action",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105527/ZeeActionELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Zee_Action_logo.svg/200px-Zee_Action_logo.svg.png"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105511/ZeeActionELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png"
   },
   {
-    "id": "42",
-    "groupTitle": "Movies",
-    "name": "&flix HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/And_Flix_logo.png/200px-And_Flix_logo.png"
-  },
-  {
-    "id": "43",
-    "groupTitle": "Spiritual",
-    "name": "Sanskar TV",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105500/SanskarTVMSLELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/9/90/Sanskar_TV_Logo.png"
-  },
-  {
-    "id": "44",
-    "groupTitle": "Entertainment",
-    "name": "Zee TV",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zee_TV_logo.svg/200px-Zee_TV_logo.svg.png"
-  },
-  {
-    "id": "45",
-    "groupTitle": "Entertainment",
-    "name": "Zee Salaam",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105104/ZEESALAAMELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Zee_Salaam_logo.png/200px-Zee_Salaam_logo.png"
-  },
-  {
-    "id": "46",
-    "groupTitle": "Odia",
-    "name": "Zee Sarthak",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105541/ZeeSarthakELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Zee_Sarthak_logo.svg/200px-Zee_Sarthak_logo.svg.png"
-  },
-  {
-    "id": "47",
-    "groupTitle": "News",
-    "name": "Zee News Uttar Pradesh Uttrakhand",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Zee_Uttar_Pradesh_Uttarakhand_logo.png"
-  },
-  {
-    "id": "48",
+    "id": "102",
     "groupTitle": "Movies",
     "name": "Zee Classic",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105547/ZeeClassicELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Zee_Classic_logo.svg/200px-Zee_Classic_logo.svg.png"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105512/ZeeClassicELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Classic.png"
   },
   {
-    "id": "49",
+    "id": "103",
     "groupTitle": "Movies",
-    "name": "&xplorHD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105553/AndxploreHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/And_Xplor_HD_logo.png/200px-And_Xplor_HD_logo.png"
+    "name": "Zee Bollywood",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeBollywoodELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bollywood.png"
   },
   {
-    "id": "50",
+    "id": "104",
     "groupTitle": "Entertainment",
-    "name": "Zee Biskope",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105522/ZeeBiskopeELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Zee_Biskope_Logo.png/200px-Zee_Biskope_Logo.png"
+    "name": "Zee Anmol",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105514/ZeeAnmolELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png"
   },
   {
-    "id": "51",
-    "groupTitle": "Tamil",
-    "name": "Zee Thirai",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105172/ZeeThiraiELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Zee_Thirai_Logo.jpg/200px-Zee_Thirai_Logo.jpg"
+    "id": "105",
+    "groupTitle": "Movies",
+    "name": "Zee Anmol Cinema",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105515/ZeeAnmolCinemaELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png"
   },
   {
-    "id": "52",
+    "id": "106",
     "groupTitle": "Entertainment",
     "name": "Zee Zest HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zee_Zest_logo.svg/200px-Zee_Zest_logo.svg.png"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105516/ZeeZestHDELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png"
   },
   {
-    "id": "53",
-    "groupTitle": "Kannada",
-    "name": "Zee Picchar",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105542/ZeePiccharELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Zee_Picchar_Logo.jpg/200px-Zee_Picchar_Logo.jpg"
+    "id": "7",
+    "groupTitle": "News",
+    "name": "Zee Business",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105509/ZEEBUSINESSELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png"
   },
   {
-    "id": "54",
-    "groupTitle": "Marathi",
-    "name": "Zee Chitramandir",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105261/ZEECHITRAMANDIRELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zee_Chitramandir_logo.png/200px-Zee_Chitramandir_logo.png"
+    "id": "110",
+    "groupTitle": "News",
+    "name": "Zee Hindustan",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105518/ZeeHindustanELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Hindustan.png"
   },
   {
-    "id": "55",
-    "groupTitle": "Kannada",
-    "name": "Zee Kannada",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105177/ZeeKannadaELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Zee_Kannada_logo.svg/200px-Zee_Kannada_logo.svg.png"
+    "id": "6",
+    "groupTitle": "Punjabi",
+    "name": "Zee Punjab Haryana Himachal Pradesh",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105493/ZEEPUHRHIELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjab_Haryana_Himachal.png"
   },
   {
-    "id": "56",
-    "groupTitle": "Bengali",
-    "name": "Zee Bangla",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105260/ZeeBanglaELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Zee_Bangla_logo.svg/200px-Zee_Bangla_logo.svg.png"
+    "id": "112",
+    "groupTitle": "Regional",
+    "name": "Zee Marathi HD",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105519/ZeeMarathiHDELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png"
   },
   {
-    "id": "57",
-    "groupTitle": "Telugu",
-    "name": "Zee Telugu",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Zee_Telugu_logo.svg/200px-Zee_Telugu_logo.svg.png"
+    "id": "113",
+    "groupTitle": "Regional",
+    "name": "Zee Yuva",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeYuvaELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png"
   },
   {
-    "id": "58",
-    "groupTitle": "Marathi",
-    "name": "Zee Marathi",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105543/ZeeMarathiELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Zee_Marathi_logo.svg/200px-Zee_Marathi_logo.svg.png"
+    "id": "114",
+    "groupTitle": "Regional",
+    "name": "Zee Talkies HD",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105521/ZeeTalkiesHDELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png"
   },
   {
-    "id": "59",
-    "groupTitle": "Tamil",
-    "name": "Zee Tamil",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105537/ZeeTamilELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Zee_Tamil_logo.svg/200px-Zee_Tamil_logo.svg.png"
+    "id": "115",
+    "groupTitle": "Regional",
+    "name": "Zee Bangla HD",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105522/ZeeBanglaHDELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png"
   },
   {
-    "id": "60",
-    "groupTitle": "Telugu",
-    "name": "Zee Cinemalu",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105548/ZeeCinemalauELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Zee_Cinemalu_logo.png/200px-Zee_Cinemalu_logo.png"
+    "id": "116",
+    "groupTitle": "Regional",
+    "name": "Zee Telugu HD",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105523/ZeeTeluguHDELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png"
   },
   {
-    "id": "61",
-    "groupTitle": "Telugu",
-    "name": "Aastha Telugu",
-    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Aastha_TV_logo.png/150px-Aastha_TV_logo.png"
+    "id": "117",
+    "groupTitle": "Regional",
+    "name": "Zee Cinemalu HD",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeCinemaluHDELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png"
   },
   {
-    "id": "62",
-    "groupTitle": "Tamil",
-    "name": "Aastha Tamil",
-    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Aastha_TV_logo.png/150px-Aastha_TV_logo.png"
+    "id": "118",
+    "groupTitle": "Regional",
+    "name": "Zee Kannada HD",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/ZeeKannadaHDELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png"
   },
   {
-    "id": "63",
-    "groupTitle": "Kannada",
-    "name": "Aastha Kannada",
-    "url": "https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Aastha_TV_logo.png/150px-Aastha_TV_logo.png"
+    "id": "119",
+    "groupTitle": "Regional",
+    "name": "Zee Tamil HD",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/ZeeTamilHDELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png"
   },
   {
-    "id": "64",
-    "groupTitle": "Gujarati",
-    "name": "Aastha Gujarati",
-    "url": "https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Aastha_TV_logo.png/150px-Aastha_TV_logo.png"
-  },
-  {
-    "id": "65",
-    "groupTitle": "Spiritual",
-    "name": "Dharm Sandesh",
-    "url": "https://aasthaott.akamaized.net/110923/smil:arihant.smil/playlist.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://i.imgur.com/K35O1Lh.png"
-  },
-  {
-    "id": "66",
-    "groupTitle": "Spiritual",
-    "name": "Aastha Bhajan",
-    "url": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/2/27/Aastha_Bhajan.jpg"
-  },
-  {
-    "id": "67",
-    "groupTitle": "Marathi",
-    "name": "Zee Talkies",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Zee_Talkies_logo.svg/200px-Zee_Talkies_logo.svg.png"
-  },
-  {
-    "id": "68",
-    "groupTitle": "Spiritual",
-    "name": "Aastha",
-    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
-    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Aastha_TV_logo.png/150px-Aastha_TV_logo.png"
+    "id": "120",
+    "groupTitle": "Regional",
+    "name": "Zee Keralam HD",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105527/ZeeKeralamHDELE/master.m3u8",
+    "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png"
   }
 ]
