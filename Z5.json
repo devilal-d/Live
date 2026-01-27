@@ -1,0 +1,344 @@
+[
+      {
+        "name": "Aaj Tak",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee News",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "India Today",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105501/INDIATODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Good News Today",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105499/GOODNEWSTODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "&Prive HD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Punjab Haryana Himachal Pradesh",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105493/ZEEPUHRHIELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Business",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105509/ZEEBUSINESSELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee 24 Kalak",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105497/ZEE24KALAKELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee 24 Taas",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105498/ZEE24TAASNEWSNEWELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "WION",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105506/WIONNEWSELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Bharat",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105262/ZEEBHARATNEWSNEWELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Bihar Jharkhand",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105492/ZEEBHJKELE/master.m3u8?"
+      },
+      {
+        "name": "Zee 24 Ghanta",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105511/ZEE24GHANTAELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Delhi NCR Haryana",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105507/ZEEDELNCRHRNEWSNEWELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Rajasthan News",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105496/ZEERAJASTHANELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Madhya Pradesh Chhattisgarh",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105495/ZEEMPCGELE/master.m3u8?"
+      },
+      {
+        "name": "Big Magic",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zing",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee TV HD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "&TV HD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Marathi HD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Yuva",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105533/ZeeYuvaELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Café HD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Anmol Cinema 2",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Tamil HD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105530/ZeeTamilHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Telugu HD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Kannada HD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105555/ZeeKannadaHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Keralam HD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105529/ZeeKeralamHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Bangla HD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Anmol",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/ZeeAnmolELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Cinema HD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Cinemalu HD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "&Pictures HD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Talkies HD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105519/ZeeTalkiesHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Bangla Cinema",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Punjabi",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105170/ZeePunjabiELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Anmol Cinema",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/ZeeAnmolCinemaELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Bollywood",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105173/ZeeBollywoodELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "&Pictures",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105528/ANDPicturesELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Cinema",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Action",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105527/ZeeActionELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "&flix HD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Sanskar TV",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105500/SanskarTVMSLELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee TV",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Salaam",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105104/ZEESALAAMELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Sarthak",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105541/ZeeSarthakELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee News Uttar Pradesh Uttrakhand",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Classic",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105547/ZeeClassicELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "&xplorHD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105553/AndxploreHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Biskope",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105522/ZeeBiskopeELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Thirai",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105172/ZeeThiraiELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Zest HD",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Picchar",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105542/ZeePiccharELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Chitramandir",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105261/ZEECHITRAMANDIRELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Kannada",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105177/ZeeKannadaELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Bangla",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105260/ZeeBanglaELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Telugu",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Marathi",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105543/ZeeMarathiELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Tamil",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105537/ZeeTamilELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Cinemalu",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105548/ZeeCinemalauELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Aastha Telugu",
+        "type": "radio",
+        "url": "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Aastha Tamil",
+        "type": "radio",
+        "url": "https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Aastha Kannada",
+        "type": "radio",
+        "url": "https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Aastha Gujarati",
+        "type": "radio",
+        "url": "https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Dharm Sandesh",
+        "type": "radio",
+        "url": "https://aasthaott.akamaized.net/110923/smil:arihant.smil/playlist.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Aastha Bhajan",
+        "type": "radio",
+        "url": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Zee Talkies",
+        "type": "radio",
+        "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      },
+      {
+        "name": "Aastha",
+        "type": "radio",
+        "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+      }
+    ]
+  }
+]
