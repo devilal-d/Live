@@ -1,181 +1,178 @@
 [
   {
-    "tvg_id": "SONY SAB HD.in",
-    "tvg_name": "Sony Sab HD",
-    "group_title": "Entertainment",
-    "tvg_logo": "https://i.postimg.cc/LhKxf97t/sonysabhd.webp",
-    "name": "Sony Sab HD",
-    "url": "https://cloudplay-sonyliv.pages.dev/sabhd.php"
+    "id": "sony-hd",
+    "channel": "SET HD",
+    "group": "Entertainment",
+    "logo": "https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "SET HD.in",
-    "tvg_name": "SET HD",
-    "group_title": "Entertainment",
-    "tvg_logo": "https://i.postimg.cc/zXgMfMMw/sethd.webp",
-    "name": "SET HD",
-    "url": "https://cloudplay-sonyliv.pages.dev/sethd.php"
+    "id": "sony-sab-hd",
+    "channel": "Sony SAB HD",
+    "group": "Entertainment",
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "Sony Pal.in",
-    "tvg_name": "Sony Pal",
-    "group_title": "Entertainment",
-    "tvg_logo": "https://i.postimg.cc/hjYyDb13/sonypal.webp",
-    "name": "Sony Pal",
-    "url": "https://cloudplay-sonyliv.pages.dev/pal.php"
+    "id": "sony-marathi",
+    "channel": "Sony Marathii",
+    "group": "Entertainment",
+    "logo": "https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "Sony Wah.in",
-    "tvg_name": "Sony WAH",
-    "group_title": "Movies",
-    "tvg_logo": "https://i.postimg.cc/HxJG9LSR/sonywah.webp",
-    "name": "Sony Wah",
-    "url": "https://cloudplay-sonyliv.pages.dev/wah.php"
+    "id": "sony-pal",
+    "channel": "Sony Pal",
+    "group": "Entertainment",
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "SONY MAX.in",
-    "tvg_name": "Sony MAX",
-    "group_title": "Movies",
-    "tvg_logo": "https://i.postimg.cc/43JFB33w/sonymax.webp",
-    "name": "Sony Max",
-    "url": "https://cloudplay-sonyliv.pages.dev/max.php"
+    "id": "sony-aath",
+    "channel": "Sony Aath",
+    "group": "Entertainment",
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "SONY MAX HD.in",
-    "tvg_name": "Sony Max HD",
-    "group_title": "Movies",
-    "tvg_logo": "https://i.postimg.cc/RFhpxbKH/sonymaxhd.webp",
-    "name": "Sony Max HD",
-    "url": "https://cloudplay-sonyliv.pages.dev/maxhd.php"
+    "id": "sony-yay",
+    "channel": "Sony Yay",
+    "group": "Kids",
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "SONY MAX 2.in",
-    "tvg_name": "Sony MAX2",
-    "group_title": "Movies",
-    "tvg_logo": "https://i.postimg.cc/vm32jdgy/sonymax2.webp",
-    "name": "Sony Max 2",
-    "url": "https://cloudplay-sonyliv.pages.dev/max2.php"
+    "id": "sony-max-hd",
+    "channel": "Sony MAX HD",
+    "group": "Movies",
+    "logo": "https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "SONY SPORTS TEN 1.in",
-    "tvg_name": "Sony Sports Ten 1",
-    "group_title": "Sports",
-    "tvg_logo": "https://i.postimg.cc/k5y9R4vH/sony-ten-1.webp",
-    "name": "Sony TEN 1 SD",
-    "url": "https://cloudplay-sonyliv.pages.dev/ten1.php"
+    "id": "sony-max",
+    "channel": "Sony MAX",
+    "group": "Movies",
+    "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "SONY SPORTS TEN 1 HD.in",
-    "tvg_name": "Sony Sports Ten 1 HD",
-    "group_title": "Sports",
-    "tvg_logo": "https://i.postimg.cc/h4knM9Rr/sonysportsten1hd.webp",
-    "name": "Sony TEN 1 HD",
-    "url": "https://cloudplay-sonyliv.pages.dev/ten1hd.php"
+    "id": "sony-max-2",
+    "channel": "Sony MAX 2",
+    "group": "Movies",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "SONY SPORTS TEN 2.in",
-    "tvg_name": "Sony Sports Ten 2",
-    "group_title": "Sports",
-    "tvg_logo": "https://i.postimg.cc/027s4b8q/sonysportsten2.webp",
-    "name": "Sony TEN 2 SD",
-    "url": "https://cloudplay-sonyliv.pages.dev/ten2.php"
+    "id": "sony-wah",
+    "channel": "Sony WAH",
+    "group": "Movies",
+    "logo": "https://sonypicturesnetworks.com/images/logos/Sony_WAH.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "SONY SPORTS TEN 2 HD.in",
-    "tvg_name": "Sony Sports Ten 2 HD",
-    "group_title": "Sports",
-    "tvg_logo": "https://i.postimg.cc/zG5rY8BH/sonysportsten2hd.webp",
-    "name": "Sony TEN 2 HD",
-    "url": "https://cloudplay-sonyliv.pages.dev/ten2hd.php"
+    "id": "sony-pix-hd",
+    "channel": "Sony PIX HD",
+    "group": "Movies",
+    "logo": "https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "SONY SPORTS TEN 3.in",
-    "tvg_name": "Sony Sports Ten 3",
-    "group_title": "Sports",
-    "tvg_logo": "https://i.postimg.cc/XY80VmGH/sonysportsten3.webp",
-    "name": "Sony TEN 3 SD",
-    "url": "https://cloudplay-sonyliv.pages.dev/ten3.php"
+    "id": "sony-bbc-earth-hd",
+    "channel": "Sony BBC Earth HD",
+    "group": "Infotainment",
+    "logo": "https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "SONY SPORTS TEN 3 HD.in",
-    "tvg_name": "Sony Sports Ten 3 HD",
-    "group_title": "Sports",
-    "tvg_logo": "https://i.postimg.cc/xd1Vq5L0/sonysportsten3hd.webp",
-    "name": "Sony TEN 3 HD",
-    "url": "https://cloudplay-sonyliv.pages.dev/ten3hd.php"
+    "id": "sony-ten-1",
+    "channel": "Sony Sports Ten 1",
+    "group": "Sports",
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "SONY SPORTS TEN 4.in",
-    "tvg_name": "Sony Sports Ten 4",
-    "group_title": "Sports",
-    "tvg_logo": "https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",
-    "name": "Sony TEN 4 SD",
-    "url": "https://cloudplay-sonyliv.pages.dev/ten4.php"
+    "id": "sony-ten-2",
+    "channel": "Sony Sports Ten 2",
+    "group": "Sports",
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "SONY SPORTS TEN 4 HD.in",
-    "tvg_name": "Sony Sports Ten 4 HD",
-    "group_title": "Sports",
-    "tvg_logo": "https://i.postimg.cc/526M3sRj/Sony_Ten_4_HD.png",
-    "name": "Sony TEN 4 HD",
-    "url": "https://cloudplay-sonyliv.pages.dev/ten4hd.php"
+    "id": "sony-ten-3",
+    "channel": "Sony Sports Ten 3",
+    "group": "Sports",
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "SONY SPORTS TEN 5.in",
-    "tvg_name": "Sony Sports Ten 5",
-    "group_title": "Sports",
-    "tvg_logo": "https://i.postimg.cc/Mpjks892/sony-sports-ten-5.png",
-    "name": "Sony TEN 5 SD",
-    "url": "https://cloudplay-sonyliv.pages.dev/ten5.php"
+    "id": "sony-ten-4",
+    "channel": "Sony Sports Ten 4",
+    "group": "Sports",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "SONY SPORTS TEN 5 HD.in",
-    "tvg_name": "Sony Sports Ten 5 HD",
-    "group_title": "Sports",
-    "tvg_logo": "https://i.postimg.cc/CKrT884b/sonysportsten5hd.webp",
-    "name": "Sony TEN 5 HD",
-    "url": "https://cloudplay-sonyliv.pages.dev/ten5hd.php"
+    "id": "sony-ten-5",
+    "channel": "Sony Sports Ten 5",
+    "group": "Sports",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "SONY YAY!.in",
-    "tvg_name": "Sony Yay",
-    "group_title": "Kids",
-    "tvg_logo": "https://i.postimg.cc/FRwMWQ8R/sonyyay.webp",
-    "name": "Sony Yay",
-    "url": "https://cloudplay-sonyliv.pages.dev/yay.php"
+    "id": "sony-ten-1-hd",
+    "channel": "Sony Sports Ten 1 HD",
+    "group": "Sports",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",
+    "link": "https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "SONY BBC Earth HD.in",
-    "tvg_name": "Sony BBC Earth HD",
-    "group_title": "Knowledge",
-    "tvg_logo": "https://i.postimg.cc/sgPNYW3v/sonybbcearthhd.webp",
-    "name": "Sony BBC Earth HD",
-    "url": "https://cloudplay-sonyliv.pages.dev/bbcearthhd.php"
+    "id": "sony-ten-2-hd",
+    "channel": "Sony Sports Ten 2 HD",
+    "group": "Sports",
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "sony-pix-hd",
-    "tvg_name": "Sony PIX HD",
-    "tvg_language": "English",
-    "tvg_logo": "https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png",
-    "group_title": "Movies",
-    "name": "Sony PIX HD",
-    "url": "https://cloudplay-sonyliv.pages.dev/pixhd.php"
+    "id": "sony-ten-3-hd",
+    "channel": "Sony Sports Ten 3 HD",
+    "group": "Sports",
+    "logo": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
+    "url": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "sony-marathi",
-    "tvg_name": "Sony Marathi",
-    "tvg_language": "Marathi",
-    "tvg_logo": "https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png",
-    "group_title": "Entertainment",
-    "name": "Sony Marathii",
-    "url": "https://cloudplay-sonyliv.pages.dev/marathi.php"
+    "id": "sony-ten-4-hd",
+    "channel": "Sony Sports Ten 4 HD",
+    "group": "Sports",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   },
   {
-    "tvg_id": "sony-aath",
-    "tvg_name": "Sony Aath",
-    "tvg_language": "Bengali",
-    "tvg_logo": "https://i.postimg.cc/bY12WVTm/SONY-AATH.png",
-    "group_title": "Entertainment",
-    "name": "Sony Aath",
-    "url": "https://cloudplay-sonyliv.pages.dev/aath.php"
+    "id": "sony-ten-5-hd",
+    "channel": "Sony Sports Ten 5 HD",
+    "group": "Sports",
+    "logo": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+    "link": "https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=exp=1769551307~acl=/*~id=09271359480139676437139925224687~hmac=80bd6896883d2a7fc63579c747950a8c6248c20d8afb5b0814d286c725865756",
+    "join": "https://t.me/cricindia95"
   }
-    ]
+]
