@@ -1,69 +1,69 @@
-[
+[hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86
   {
     "id": "1",
     "groupTitle": "News",
     "name": "Aaj Tak",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "2",
     "groupTitle": "News",
     "name": "Zee News",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "3",
     "groupTitle": "News",
     "name": "India Today",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105501/INDIATODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105501/INDIATODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "4",
     "groupTitle": "News",
     "name": "Good News Today",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105499/GOODNEWSTODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105499/GOODNEWSTODAYHDNEWSELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "5",
     "groupTitle": "Movies",
     "name": "&Prive HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2104969/AndPriveHDELENEW/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "6",
     "groupTitle": "Punjabi",
     "name": "Zee Punjab Haryana Himachal Pradesh",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105493/ZEEPUHRHIELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105493/ZEEPUHRHIELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "7",
     "groupTitle": "News",
     "name": "Zee Business",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105509/ZEEBUSINESSELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105509/ZEEBUSINESSELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "8",
     "groupTitle": "Gujarati",
     "name": "Zee 24 Kalak",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105497/ZEE24KALAKELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105497/ZEE24KALAKELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "9",
     "groupTitle": "Marathi",
     "name": "Zee 24 Taas",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105498/ZEE24TAASNEWSNEWELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105498/ZEE24TAASNEWSNEWELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "10",
     "groupTitle": "News",
     "name": "WION",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105506/WIONNEWSELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105506/WIONNEWSELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "11",
     "groupTitle": "News",
     "name": "Zee Bharat",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105262/ZEEBHARATNEWSNEWELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105262/ZEEBHARATNEWSNEWELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "12",
@@ -75,19 +75,19 @@
     "id": "13",
     "groupTitle": "Bengali",
     "name": "Zee 24 Ghanta",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105511/ZEE24GHANTAELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105511/ZEE24GHANTAELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "14",
     "groupTitle": "News",
     "name": "Zee Delhi NCR Haryana",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105507/ZEEDELNCRHRNEWSNEWELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105507/ZEEDELNCRHRNEWSNEWELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "15",
     "groupTitle": "News",
     "name": "Zee Rajasthan News",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105496/ZEERAJASTHANELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105496/ZEERAJASTHANELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "16",
@@ -99,312 +99,312 @@
     "id": "17",
     "groupTitle": "Entertainment",
     "name": "Big Magic",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105176/BigMagicELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "18",
     "groupTitle": "Entertainment",
     "name": "Zing",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105532/ZingELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "19",
     "groupTitle": "Entertainment",
     "name": "Zee TV HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "20",
     "groupTitle": "Entertainment",
     "name": "&TV HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105504/AndTVHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "21",
     "groupTitle": "Marathi",
     "name": "Zee Marathi HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105520/ZeeMarathiHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "22",
     "groupTitle": "Marathi",
     "name": "Zee Yuva",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105533/ZeeYuvaELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105533/ZeeYuvaELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "23",
     "groupTitle": "Entertainment",
     "name": "Zee Café HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "24",
     "groupTitle": "Movies",
     "name": "h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png\",Zee Anmol Cinema 2",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105171/ZeeGangaELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "25",
     "groupTitle": "Tamil",
     "name": "Zee Tamil HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105530/ZeeTamilHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105530/ZeeTamilHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "26",
     "groupTitle": "Telugu",
     "name": "Zee Telugu HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105545/ZeeTeluguHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "27",
     "groupTitle": "Kannada",
     "name": "Zee Kannada HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105555/ZeeKannadaHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105555/ZeeKannadaHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "28",
     "groupTitle": "Malayalam",
     "name": "Zee Keralam HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105529/ZeeKeralamHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105529/ZeeKeralamHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "29",
     "groupTitle": "Bengali",
     "name": "Zee Bangla HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "30",
     "groupTitle": "Movies",
     "name": "Zee Anmol",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/ZeeAnmolELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/ZeeAnmolELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "31",
     "groupTitle": "Movies",
     "name": "Zee Cinema HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "32",
     "groupTitle": "Telugu",
     "name": "Zee Cinemalu HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "33",
     "groupTitle": "Movies",
     "name": "&Pictures HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105174/ANDPicturesHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "34",
     "groupTitle": "Marathi",
     "name": "Zee Talkies HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105519/ZeeTalkiesHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105519/ZeeTalkiesHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "35",
     "groupTitle": "Bengali",
     "name": "Zee Bangla Cinema",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105524/ZeeBanglaCinemaELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "36",
     "groupTitle": "Punjabi",
     "name": "Zee Punjabi",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105170/ZeePunjabiELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105170/ZeePunjabiELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "37",
     "groupTitle": "Movies",
     "name": "Zee Anmol Cinema",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/ZeeAnmolCinemaELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105525/ZeeAnmolCinemaELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "38",
     "groupTitle": "Movies",
     "name": "Zee Bollywood",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105173/ZeeBollywoodELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105173/ZeeBollywoodELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "39",
     "groupTitle": "Movies",
     "name": "&Pictures",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105528/ANDPicturesELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105528/ANDPicturesELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "40",
     "groupTitle": "Movies",
     "name": "Zee Cinema",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105552/ZeeCinemaELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "41",
     "groupTitle": "Movies",
     "name": "Zee Action",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105527/ZeeActionELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105527/ZeeActionELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "42",
     "groupTitle": "Movies",
     "name": "&flix HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105517/AndFlixHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "43",
     "groupTitle": "Spiritual",
     "name": "Sanskar TV",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105500/SanskarTVMSLELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105500/SanskarTVMSLELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "44",
     "groupTitle": "Entertainment",
     "name": "Zee TV",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105536/ZeeTVELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "45",
     "groupTitle": "Entertainment",
     "name": "Zee Salaam",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105104/ZEESALAAMELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105104/ZEESALAAMELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "46",
     "groupTitle": "Odia",
     "name": "Zee Sarthak",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105541/ZeeSarthakELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105541/ZeeSarthakELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "47",
     "groupTitle": "News",
     "name": "Zee News Uttar Pradesh Uttrakhand",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105494/ZEEUPUKELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "48",
     "groupTitle": "Movies",
     "name": "Zee Classic",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105547/ZeeClassicELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105547/ZeeClassicELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "49",
     "groupTitle": "Movies",
     "name": "&xplorHD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105553/AndxploreHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105553/AndxploreHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "50",
     "groupTitle": "Entertainment",
     "name": "Zee Biskope",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105522/ZeeBiskopeELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105522/ZeeBiskopeELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "51",
     "groupTitle": "Tamil",
     "name": "Zee Thirai",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105172/ZeeThiraiELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105172/ZeeThiraiELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "52",
     "groupTitle": "Entertainment",
     "name": "Zee Zest HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/index-connected.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105513/ZeeZestHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "53",
     "groupTitle": "Kannada",
     "name": "Zee Picchar",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105542/ZeePiccharELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105542/ZeePiccharELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "54",
     "groupTitle": "Marathi",
     "name": "Zee Chitramandir",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105261/ZEECHITRAMANDIRELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105261/ZEECHITRAMANDIRELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "55",
     "groupTitle": "Kannada",
     "name": "Zee Kannada",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105177/ZeeKannadaELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105177/ZeeKannadaELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "56",
     "groupTitle": "Bengali",
     "name": "Zee Bangla",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105260/ZeeBanglaELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105260/ZeeBanglaELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "57",
     "groupTitle": "Telugu",
     "name": "Zee Telugu",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105179/ZeeTeluguELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "58",
     "groupTitle": "Marathi",
     "name": "Zee Marathi",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105543/ZeeMarathiELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105543/ZeeMarathiELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "59",
     "groupTitle": "Tamil",
     "name": "Zee Tamil",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105537/ZeeTamilELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105537/ZeeTamilELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "60",
     "groupTitle": "Telugu",
     "name": "Zee Cinemalu",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105548/ZeeCinemalauELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105548/ZeeCinemalauELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "61",
     "groupTitle": "Telugu",
     "name": "Aastha Telugu",
-    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "62",
     "groupTitle": "Tamil",
     "name": "Aastha Tamil",
-    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "63",
     "groupTitle": "Kannada",
     "name": "Aastha Kannada",
-    "url": "https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "64",
     "groupTitle": "Gujarati",
     "name": "Aastha Gujarati",
-    "url": "https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthagujrati.smil/playlist.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "65",
     "groupTitle": "Spiritual",
     "name": "Dharm Sandesh",
-    "url": "https://aasthaott.akamaized.net/110923/smil:arihant.smil/playlist.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://aasthaott.akamaized.net/110923/smil:arihant.smil/playlist.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "66",
     "groupTitle": "Spiritual",
     "name": "Aastha Bhajan",
-    "url": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://aasthaott.akamaized.net/110923/smil:bhajan.smil/playlist.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "67",
     "groupTitle": "Marathi",
     "name": "Zee Talkies",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105538/ZeeTalkiesELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   },
   {
     "id": "68",
     "groupTitle": "Spiritual",
     "name": "Aastha",
-    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1769565149~acl=%2f*~id=9fc97af7-9aaf-4bb6-9d92-ea5718f533d2~data=hdntl~hmac=78917fe9ba238ea770aa8b96b5b41c303e7198d568252fd851ecfa5ca9867824"
+    "url": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/playlist.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86"
   }
 ]
