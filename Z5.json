@@ -3,35 +3,35 @@
     "id": "1",
     "groupTitle": "News",
     "name": "Aaj Tak",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1769692099~acl=%2f*~id=4183d0db-b35c-4441-b25f-5b4900e135dd~data=hdntl~hmac=ef5e57b833d18e9957505503ee1ea40439c84ff5b0be7a08c1eb72869bbf7f7a",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png"
   },
   {
     "id": "2",
     "groupTitle": "News",
     "name": "Zee News",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdntl=exp=1769692099~acl=%2f*~id=4183d0db-b35c-4441-b25f-5b4900e135dd~data=hdntl~hmac=ef5e57b833d18e9957505503ee1ea40439c84ff5b0be7a08c1eb72869bbf7f7a",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png"
   },
   {
     "id": "19",
     "groupTitle": "Entertainment",
     "name": "Zee TV HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105531/ZeeTVHDMSLELE/index-connected.m3u8?hdntl=exp=1769692099~acl=%2f*~id=4183d0db-b35c-4441-b25f-5b4900e135dd~data=hdntl~hmac=ef5e57b833d18e9957505503ee1ea40439c84ff5b0be7a08c1eb72869bbf7f7a",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png"
   },
   {
     "id": "23",
     "groupTitle": "Entertainment",
     "name": "Zee Café HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105539/ZeecafeHDELE/index-connected.m3u8?hdntl=exp=1769692099~acl=%2f*~id=4183d0db-b35c-4441-b25f-5b4900e135dd~data=hdntl~hmac=ef5e57b833d18e9957505503ee1ea40439c84ff5b0be7a08c1eb72869bbf7f7a",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png"
   },
   {
     "id": "31",
     "groupTitle": "Movies",
     "name": "Zee Cinema HD",
-    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1769590281~acl=%2f*~id=c9f3702b-cc4d-4fc9-ac7a-d18ad4cbeb80~data=hdntl~hmac=0986f66c9225cd50c9cf260baf7bb590df1c432c9da372ae0b6eb481db95ee86",
+    "url": "https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1769692099~acl=%2f*~id=4183d0db-b35c-4441-b25f-5b4900e135dd~data=hdntl~hmac=ef5e57b833d18e9957505503ee1ea40439c84ff5b0be7a08c1eb72869bbf7f7a",
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png"
   },
   {
