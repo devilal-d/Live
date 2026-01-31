@@ -1,25 +1,12 @@
 [
     {
-        "channel_id": "25",
-        "name": "Star Sports Hindi 1",
-        "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7433/567433-h",
-        "category": "Sports",
-        "language": "Hindi",
-        "clearkey": "fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d",
-        "userAgent": "Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)",
-        "cookie": "hdntl=exp=1769949992~acl=*sshindi*~id=e21eade12e3abae232bc3cfa958d4203~data=hdntl~hmac=32bd43d0de076a9d884a063d45618f0acc934e60ee524d53111512a44476ceca",
-        "link": "https://livetv-push.hotstar.com/dash/live/2002466-b/sshindiwv/master.mpd",
-        "type": "Dash",
-        "origin": "https://www.hotstar.com",
-        "Referer": "https://www.hotstar.com/",
-        "expired_At": "01/02/2026 - 06:16:32 PM"
-    },
-    {
         "channel_id": "35",
         "name": "Star Sports 1",
         "logo": "https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7430/567430-h",
         "category": "Sports",
         "language": "English",
+        "keyId": "fe7718fbb3fb4ba78c07cc0f578744e6",
+        "key": "624e24b1843b459fab0a949609416f0d",
         "clearkey": "fe7718fbb3fb4ba78c07cc0f578744e6:624e24b1843b459fab0a949609416f0d",
         "userAgent": "Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)",
         "cookie": "hdntl=exp=1769949993~acl=*sshd1livetv*~id=e98edfdb81843b48859cf7d479291809~data=hdntl~hmac=df3100f2b5b97a1ff4dbeb3cd724960f87be6a3a4ab4cb8e37fcefd2a08790d2",
