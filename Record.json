@@ -1,34 +1,42 @@
 [
   {
     "name": "JioTV+",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS01o_XxSzoVhmaSKsGfJbavmWqkVZPUAZ72aRmnvqag&s=10"
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS01o_XxSzoVhmaSKsGfJbavmWqkVZPUAZ72aRmnvqag&s=10",
+    "target": "jiotv"
   },
   {
     "name": "Sony LIV",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3rtoE3Hq-vlbOX68lhbUtj_ykmm2JUfFGbp99H-ZmxQ&s=10"
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3rtoE3Hq-vlbOX68lhbUtj_ykmm2JUfFGbp99H-ZmxQ&s=10",
+    "target": "sonyliv"
   },
   {
     "name": "FANCODE",
-    "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7drCDmBuOprx_cta99xlWw7NViMhQNJojQfYg_NVAhw&s=10"
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7drCDmBuOprx_cta99xlWw7NViMhQNJojQfYg_NVAhw&s=10",
+    "target": "fancode"
   },
   {
     "name": "SONY Events",
-    "logo": "https://widespread-plum-gffbkraoo7-deis8y3f44.edgeone.dev/Untitled-3.png"
+    "logo": "https://widespread-plum-gffbkraoo7-deis8y3f44.edgeone.dev/Untitled-3.png",
+    "target": "sonyevents"
   },
   {
     "name": "ZEE Live",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXoJXf47eD72aQPcdTpBRT36PMK3bbPodK7fgxm1nt8w&s=10"
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXoJXf47eD72aQPcdTpBRT36PMK3bbPodK7fgxm1nt8w&s=10",
+    "target": "zeelive"
   },
   {
     "name": "CRICHD",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDzan87ecYZhVGAyuWh4HEuDk1na-zgIixWHs-pPUfRw&s=10"
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDzan87ecYZhVGAyuWh4HEuDk1na-zgIixWHs-pPUfRw&s=10",
+    "target": "crichd"
   },
   {
     "name": "ZEE Events",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXoJXf47eD72aQPcdTpBRT36PMK3bbPodK7fgxm1nt8w&s=10"
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXoJXf47eD72aQPcdTpBRT36PMK3bbPodK7fgxm1nt8w&s=10",
+    "target": "zeeevents"
   },
   {
     "name": "SONY BY JIO",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3rtoE3Hq-vlbOX68lhbUtj_ykmm2JUfFGbp99H-ZmxQ&s=10"
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3rtoE3Hq-vlbOX68lhbUtj_ykmm2JUfFGbp99H-ZmxQ&s=10",
+    "target": "sonybyjio"
   }
-]
+    ]
