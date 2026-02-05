@@ -38,5 +38,10 @@
     "name": "SONY BY JIO",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3rtoE3Hq-vlbOX68lhbUtj_ykmm2JUfFGbp99H-ZmxQ&s=10",
     "target": "sonybyjio"
+  },
+  {
+    "name": "Kids",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9E-WK2uyTjPe5Y0R-iu-h5hUphBM4YcGrVQ&s",
+    "target": "Kids"
   }
     ]
