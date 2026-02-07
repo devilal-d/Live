@@ -22,8 +22,8 @@ jobs:
 
       - name: Configure Git User
         run: |
-          git config --global user.name "kajju027"
-          git config --global user.email "209622231+kajju027@users.noreply.github.com"
+          git config --global user.name "devilal-d"
+          git config --global user.email "249756281+devilal-d@users.noreply.github.com"
 
       - name: Sync and Update Log
         run: |
@@ -31,7 +31,7 @@ jobs:
           git pull origin main --rebase
           
           curl -sS -o fancode.json "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.json"
-          echo "🚀 Fancode Synced Successfully BY Sayan | IST: $(date +'%Y-%m-%d %H:%M:%S') | ID: $RANDOM" >> fancode.txt
+          echo "🚀 Fancode Synced Successfully BY devilal| IST: $(date +'%Y-%m-%d %H:%M:%S') | ID: $RANDOM" >> fancode.txt
 
       - name: Commit and Push
         run: |
