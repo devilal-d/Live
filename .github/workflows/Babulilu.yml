@@ -2,9 +2,11 @@ name: Auto Update M3U Playlist
 
 on:
   schedule:
-    # This runs every 24 hours. Adjust the cron if you need it more frequent.
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Allows you to run it manually from the Actions tab
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch:      # This adds a "Run workflow" button for testing
+
+permissions:
+  contents: write         # Crucial: Gives the bot permission to save files
 
 jobs:
   update-list:
@@ -15,19 +17,24 @@ jobs:
 
       - name: Download M3U file
         run: |
-          # Replace 'https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u' with the actual link to the kids m3u
-          curl -sSf "https://raw.githubusercontent.com/drmlive/fancode-live-events/refs/heads/main/fancode.m3u" > Kids.m3u
+          # Replace the URL below with your actual link
+          curl -L -o Kids.m3u "https://raw.githubusercontent.com/fakeall12398-sketch/JIO_TV/refs/heads/main/kids.m3u"
 
-      - name: Commit and Push changes
+      - name: Check if file is empty
+        run: |
+          if [ ! -s kids.m3u ]; then
+            echo "The downloaded file is empty. Check your URL."
+            exit 1
+          fi
+
+      - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add Kids.m3u
-          
-          # Only commit if there are actually changes to the file
           if git diff --staged --quiet; then
-            echo "No changes detected in the playlist."
+            echo "No changes to commit"
           else
-            git commit -m "Auto-update: kids.m3u updated at $(date)"
+            git commit -m "Update Kids.m3u - $(date)"
             git push
           fi
