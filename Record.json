@@ -58,5 +58,10 @@
     "name": "Star-Channels",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTttHXZW4pfOlggMVHaYBY8927VS-gjOy23KY3rYcbD3w&s=10",
     "target": "Starall"
+  },
+  {
+    "name": "Sunnxt",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxgx2AfihzbVAOXy5Rre0du3bHSBi12DvUHAWIbVgPQ&s",
+    "target": "Sun"
   }
     ]
