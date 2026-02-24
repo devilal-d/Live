@@ -63,5 +63,10 @@
     "name": "Sunnxt",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzxgx2AfihzbVAOXy5Rre0du3bHSBi12DvUHAWIbVgPQ&s",
     "target": "Sun"
+  },
+  {
+    "name": "Live",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuZ54G2cqtdo-DPBkbzGftbYZwSUdu1EgICw&s",
+    "target": "Live"
   }
     ]
